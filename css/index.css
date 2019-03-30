@@ -1,0 +1,133 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.web {
+	width: 1265px;
+	height: 738px;
+	/* to be delete.. */
+	/* background: skyblue; */
+	background: url(../img/bg.jpg);
+}
+
+.o_page {
+	width: 600px;
+	height: inherit;
+	margin: 0 auto;
+	/* background: pink; */
+}
+
+.s_logo {
+	width: 600px;
+	height: 133px;
+	/* background: yellow; */
+	margin-top: 1px;
+}
+
+.s_menu {
+	width: 600px;
+	height: 22px;
+	background: #92bbfb;
+	margin: 1px 0 1px 0;
+}
+
+.s_con {
+	width: 600px;
+	height: 580px;
+	/* to be delete... */
+	/* background: greenyellow; */
+	font-size: 0;
+}
+
+.t_left {
+	display: inline-block;
+	width: 150px;
+	height: 579px;
+	background: #d2e6ff;
+	margin-left: 1px;
+	margin-right: 2px;
+	vertical-align: top;
+}
+
+.t_right {
+	display: inline-block;
+	width: 442px;
+	height: 579px;
+	/* background: orange; */
+	background: url(../img/big.jpg);
+	margin-left: 2px;
+	margin-right: 1px;
+}
+
+.part_1 {
+	/* background: blanchedalmond; */
+	width: 150px;
+	height: 270px;
+	margin: 0 auto 0 auto;
+
+}
+
+.part_2 {
+	/* background: #D2E6FF; */
+	height: 309px;
+	width: 150px;
+}
+
+.pic_1 {
+	width: 95px;
+	height: 125px;
+	background: red;
+	margin: 20px auto 0 auto;
+	font-size: 10px;
+}
+
+.pic_2 {
+	width: 95px;
+	height: 105px;
+	background: yellow;
+	margin: 0 auto;
+	font-size: 10px;
+}
+
+.articals {
+	width: 400px;
+	height: 553px;
+	/* background: pink; */
+	margin-top: 26px;
+	margin-left: 26px;
+	font-size: 24px;
+}
+
+.pic_text {
+	width: 125px;
+	/* text-align: center; */
+	margin: 10px auto;
+	font-size: 20px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 14px;
+}
+
+p {
+	font-size: 12px;
+	margin-bottom: 8px;
+}
+
+a {
+	display: inline-block;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+span {
+	display: inline-block;
+	/* width: 80px; */
+	margin-top: 2px;
+	margin-left: 18px;
+	margin-right: 20px;
+	font-size: 12px;
+	vertical-align: top;
+}
